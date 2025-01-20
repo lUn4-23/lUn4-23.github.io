@@ -6,16 +6,7 @@
 		<description>Recent content on localhost:1313</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Mon, 20 Jan 2025 19:17:11 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 19 Jan 2025 18:09:56 +0100</lastBuildDate>
 		<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-		<item>
-			<title>Hello World</title>
-			<link>http://localhost:1313/hello-world/</link>
-			<pubDate>Sun, 19 Jan 2025 18:09:56 +0100</pubDate>
-			<guid>http://localhost:1313/hello-world/</guid>
-			<description>
-			Erste Blog Post welcher um diesen Blog handelt
-			</description>
-		</item>
 	</channel>
 </rss>

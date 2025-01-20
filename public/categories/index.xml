@@ -6,25 +6,6 @@
 		<description>Recent content in Categories on localhost:1313</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Mon, 20 Jan 2025 19:17:11 +0100</lastBuildDate>
 		<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-		<item>
-			<title>Writeup</title>
-			<link>http://localhost:1313/categories/writeup/</link>
-			<pubDate>Mon, 20 Jan 2025 19:17:11 +0100</pubDate>
-			<guid>http://localhost:1313/categories/writeup/</guid>
-			<description>
-			
-			</description>
-		</item>
-		<item>
-			<title>Random</title>
-			<link>http://localhost:1313/categories/random/</link>
-			<pubDate>Sun, 19 Jan 2025 18:09:56 +0100</pubDate>
-			<guid>http://localhost:1313/categories/random/</guid>
-			<description>
-			
-			</description>
-		</item>
 	</channel>
 </rss>

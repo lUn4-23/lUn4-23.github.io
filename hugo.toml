@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://lun4-23.github.io/'
 languageCode = 'en-us'
 title = 'Lunas Chaos Blog'
 theme = 'hugo-vitae'
