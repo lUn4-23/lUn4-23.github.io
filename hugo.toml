@@ -1,0 +1,28 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Lunas Chaos Blog'
+theme = 'hugo-vitae'
+[params]
+fullRSS = true
+
+[[params.social]]
+name = "Github"
+icon = "fab fa-github"
+url = "https://github.com/lUn4-23"
+
+[[params.social]]
+name = "Hackernews"
+icon = "fab fa-hacker-news"
+url = "https://news.ycombinator.com/user?id=luna-23"
+
+[[params.social]]
+name = "Reddit"
+icon = "fab fa-reddit"
+url = "https://www.reddit.com/user/lun4_23/"
+
+[[params.social]]
+name = "RSS"
+icon = "fas fa-rss"
+url = "index.xml"
+
+
