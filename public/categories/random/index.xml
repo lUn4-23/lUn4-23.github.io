@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Random on Lunas Chaos Blog</title>
-		<link>http://localhost:1313/categories/random/</link>
+		<link>//localhost:1313/categories/random/</link>
 		<description>Recent content in Random on localhost:1313</description>
 		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
+		<language>de</language>
 		<lastBuildDate>Sun, 19 Jan 2025 18:09:56 +0100</lastBuildDate>
-		<atom:link href="http://localhost:1313/categories/random/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="//localhost:1313/categories/random/index.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Hello World</title>
-			<link>http://localhost:1313/hello-world/</link>
+			<link>//localhost:1313/hello-world/</link>
 			<pubDate>Sun, 19 Jan 2025 18:09:56 +0100</pubDate>
-			<guid>http://localhost:1313/hello-world/</guid>
+			<guid>//localhost:1313/hello-world/</guid>
 			<description>
 			Erste Blog Post welcher um diesen Blog handelt
 			</description>

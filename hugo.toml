@@ -1,7 +1,23 @@
-baseURL = 'https://lun4-23.github.io/'
-languageCode = 'en-us'
+baseURL = '/'
+languageCode = 'de'
 title = 'Lunas Chaos Blog'
 theme = 'hugo-vitae'
+enableRobotsTXT = true
+author = "Luna"
+
+
+[[menu.main]]
+name = "Zurück!!!"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Kategorien"
+url = "/categories"
+weight = 2
+
+
+
 [params]
 fullRSS = true
 
